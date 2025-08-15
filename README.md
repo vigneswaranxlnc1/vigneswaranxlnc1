@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneswaranxlnc1" alt="vigneswaranxlnc1" /></a> </p>
 
-- 🔭 I’m currently working on **hotel-app**
+- 🔭 I’m currently working on **Hobby Project - hotel integration Tools**
 
 - 🌱 I’m currently learning **Python Using AI**
 
